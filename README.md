@@ -1,1 +1,1 @@
-# Resume is [here](../blob/master/resume.html)
+# Resume is [here](../resume.html)
