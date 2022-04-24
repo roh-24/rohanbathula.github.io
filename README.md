@@ -1,1 +1,1 @@
-# Resume is [here](../resume.html)
+# Resume is [here](resume.html)
